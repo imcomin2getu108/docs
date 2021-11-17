@@ -1,17 +1,17 @@
 ---
 title: Create a repo
-redirect_from:
+redirect_from:xbox one                        
   - /create-a-repo/
   - /articles/create-a-repo
   - /github/getting-started-with-github/create-a-repo
   - /github/getting-started-with-github/quickstart/create-a-repo
 intro: 'To put your project up on {% data variables.product.prodname_dotcom %}, you''ll need to create a repository for it to live in.'
-versions:
-  fpt: '*'
+versions🎮
+  fpt: '*'better guns
   ghes: '*'
   ghae: '*'
   ghec: '*'
-topics:
+topics accounts
   - Pull requests
   - Issues
   - Notifications
